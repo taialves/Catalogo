@@ -1,0 +1,17 @@
+D:\Tecnologia\Projetos\WTF\Desafio2\Catalogo\Catalogo.Infrastructure\bin\Debug\net8.0\Catalogo.Infra.Data.deps.json
+D:\Tecnologia\Projetos\WTF\Desafio2\Catalogo\Catalogo.Infrastructure\bin\Debug\net8.0\Catalogo.Infra.Data.runtimeconfig.json
+D:\Tecnologia\Projetos\WTF\Desafio2\Catalogo\Catalogo.Infrastructure\bin\Debug\net8.0\Catalogo.Infra.Data.dll
+D:\Tecnologia\Projetos\WTF\Desafio2\Catalogo\Catalogo.Infrastructure\bin\Debug\net8.0\Catalogo.Infra.Data.pdb
+D:\Tecnologia\Projetos\WTF\Desafio2\Catalogo\Catalogo.Infrastructure\bin\Debug\net8.0\Catalogo.Domain.dll
+D:\Tecnologia\Projetos\WTF\Desafio2\Catalogo\Catalogo.Infrastructure\bin\Debug\net8.0\Catalogo.Domain.pdb
+D:\Tecnologia\Projetos\WTF\Desafio2\Catalogo\Catalogo.Infrastructure\obj\Debug\net8.0\Catalogo.Infra.Data.csproj.AssemblyReference.cache
+D:\Tecnologia\Projetos\WTF\Desafio2\Catalogo\Catalogo.Infrastructure\obj\Debug\net8.0\Catalogo.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecnologia\Projetos\WTF\Desafio2\Catalogo\Catalogo.Infrastructure\obj\Debug\net8.0\Catalogo.Infra.Data.AssemblyInfoInputs.cache
+D:\Tecnologia\Projetos\WTF\Desafio2\Catalogo\Catalogo.Infrastructure\obj\Debug\net8.0\Catalogo.Infra.Data.AssemblyInfo.cs
+D:\Tecnologia\Projetos\WTF\Desafio2\Catalogo\Catalogo.Infrastructure\obj\Debug\net8.0\Catalogo.Infra.Data.csproj.CoreCompileInputs.cache
+D:\Tecnologia\Projetos\WTF\Desafio2\Catalogo\Catalogo.Infrastructure\obj\Debug\net8.0\Catalogo.ABC19E0B.Up2Date
+D:\Tecnologia\Projetos\WTF\Desafio2\Catalogo\Catalogo.Infrastructure\obj\Debug\net8.0\Catalogo.Infra.Data.dll
+D:\Tecnologia\Projetos\WTF\Desafio2\Catalogo\Catalogo.Infrastructure\obj\Debug\net8.0\refint\Catalogo.Infra.Data.dll
+D:\Tecnologia\Projetos\WTF\Desafio2\Catalogo\Catalogo.Infrastructure\obj\Debug\net8.0\Catalogo.Infra.Data.pdb
+D:\Tecnologia\Projetos\WTF\Desafio2\Catalogo\Catalogo.Infrastructure\obj\Debug\net8.0\Catalogo.Infra.Data.genruntimeconfig.cache
+D:\Tecnologia\Projetos\WTF\Desafio2\Catalogo\Catalogo.Infrastructure\obj\Debug\net8.0\ref\Catalogo.Infra.Data.dll

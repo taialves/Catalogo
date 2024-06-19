@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tails\\OneDrive\\Documentos\\WTF\\Desafio2\\Catalogo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5C21FB-1FCE-4361-9C98-0947D5D4D74B}|Catalogo.Domain\\Catalogo.Domain.csproj|c:\\users\\tails\\onedrive\\documentos\\wtf\\desafio2\\catalogo\\catalogo.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5C21FB-1FCE-4361-9C98-0947D5D4D74B}|Catalogo.Domain\\Catalogo.Domain.csproj|solutionrelative:catalogo.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\tails\\OneDrive\\Documentos\\WTF\\Desafio2\\Catalogo\\Catalogo.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Catalogo.Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\tails\\OneDrive\\Documentos\\WTF\\Desafio2\\Catalogo\\Catalogo.Domain\\Entities\\Category.cs*",
+              "RelativeToolTip": "Catalogo.Domain\\Entities\\Category.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T03:59:36.016Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

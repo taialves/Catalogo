@@ -1,0 +1,11 @@
+D:\Tecnologia\Projetos\WTF\Desafio2\Catalogo\Catalogo.Infra.IoC\bin\Debug\net8.0\Catalogo.Infra.IoC.deps.json
+D:\Tecnologia\Projetos\WTF\Desafio2\Catalogo\Catalogo.Infra.IoC\bin\Debug\net8.0\Catalogo.Infra.IoC.dll
+D:\Tecnologia\Projetos\WTF\Desafio2\Catalogo\Catalogo.Infra.IoC\bin\Debug\net8.0\Catalogo.Infra.IoC.pdb
+D:\Tecnologia\Projetos\WTF\Desafio2\Catalogo\Catalogo.Infra.IoC\obj\Debug\net8.0\Catalogo.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecnologia\Projetos\WTF\Desafio2\Catalogo\Catalogo.Infra.IoC\obj\Debug\net8.0\Catalogo.Infra.IoC.AssemblyInfoInputs.cache
+D:\Tecnologia\Projetos\WTF\Desafio2\Catalogo\Catalogo.Infra.IoC\obj\Debug\net8.0\Catalogo.Infra.IoC.AssemblyInfo.cs
+D:\Tecnologia\Projetos\WTF\Desafio2\Catalogo\Catalogo.Infra.IoC\obj\Debug\net8.0\Catalogo.Infra.IoC.csproj.CoreCompileInputs.cache
+D:\Tecnologia\Projetos\WTF\Desafio2\Catalogo\Catalogo.Infra.IoC\obj\Debug\net8.0\Catalogo.Infra.IoC.dll
+D:\Tecnologia\Projetos\WTF\Desafio2\Catalogo\Catalogo.Infra.IoC\obj\Debug\net8.0\refint\Catalogo.Infra.IoC.dll
+D:\Tecnologia\Projetos\WTF\Desafio2\Catalogo\Catalogo.Infra.IoC\obj\Debug\net8.0\Catalogo.Infra.IoC.pdb
+D:\Tecnologia\Projetos\WTF\Desafio2\Catalogo\Catalogo.Infra.IoC\obj\Debug\net8.0\ref\Catalogo.Infra.IoC.dll
